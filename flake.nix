@@ -3,7 +3,7 @@
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/release-22.11";
-    flake-utils-plus.url = "github:gytis-ivaskevicius/flake-utils-plus";
+    flake-utils-plus.url = "github:fl42v/flake-utils-plus";
 
     flake-compat = {
       url = "github:edolstra/flake-compat";
